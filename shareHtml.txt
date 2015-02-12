@@ -1,0 +1,13 @@
+http://swifter.tips/
+
+http://www.csdn.net/article/2015-01-27/2823723-stanford-swift-programming-course
+
+http://www.learncpp.com/cpp-tutorial/115-inheritance-and-access-specifiers/
+
+https://auth.pactera.com/login?service=http%3A%2F%2Fhub.pactera.com%2F%3Fq%3Dhome-page%26destination%3Dhome-page
+
+http://blog.devtang.com/blog/2013/01/13/two-stage-creation-on-cocoa/
+
+http://swifter.tips/objc-dynamic/
+
+https://neix.pactera.jp/redmine/login?back_url=https%3A%2F%2Fneix.pactera.jp%2Fredmine%2Fmy%2Fpage
